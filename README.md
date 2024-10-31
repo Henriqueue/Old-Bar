@@ -1,2 +1,4 @@
 # Old-Bar
 Complex scene (with objects and texture) of a bar created in Blender
+
+Hello, if you are reading this it is because you are interested in this project, so allow me to explain how to navigate through it and access it properly: In addition to this README you see a psd file called "foto.psd", this file is just a photo example of what the scenario looks like when created. In addition to it, you see a file called "Planta Baixa.jpg" which is an example of a plan of the scenario that you can create. Now, regarding the content itself, here you have the folders: "OBJ MAPPED" where you will find each of the objects created in Blender already mapped ready for use and disposal (if you don't speak Portuguese you will need to look for what each of the objects means in your language), and in the other folder "TEXTURES" you will find the textures of each of the corresponding objects. Good luck and good work.
